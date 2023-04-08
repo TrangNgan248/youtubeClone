@@ -1,5 +1,5 @@
 {
-  "homepage": "https://trangngan248.github.io/youtubeClone/",
+  "homepage": "https://trangngan248.github.io/youtubeClone",
   "name": "youtube-clone-web",
   "version": "0.1.0",
   "private": true,
@@ -15,9 +15,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
+    "deploy": "gh-pages -b master -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
