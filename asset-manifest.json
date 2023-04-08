@@ -1,10 +1,11 @@
 {
-  "files": {
-    "main.js": "/youtubeClone/static/js/main.1e6d9cc7.js",
-    "index.html": "/youtubeClone/index.html",
-    "main.1e6d9cc7.js.map": "/youtubeClone/static/js/main.1e6d9cc7.js.map"
-  },
-  "entrypoints": [
-    "static/js/main.1e6d9cc7.js"
-  ]
+  "main.js": "/youtubeClone/static/js/main.b9f88fbd.chunk.js",
+  "main.js.map": "/youtubeClone/static/js/main.b9f88fbd.chunk.js.map",
+  "runtime~main.js": "/youtubeClone/static/js/runtime~main.571fee9c.js",
+  "runtime~main.js.map": "/youtubeClone/static/js/runtime~main.571fee9c.js.map",
+  "static/js/2.26006f8c.chunk.js": "/youtubeClone/static/js/2.26006f8c.chunk.js",
+  "static/js/2.26006f8c.chunk.js.map": "/youtubeClone/static/js/2.26006f8c.chunk.js.map",
+  "index.html": "/youtubeClone/index.html",
+  "precache-manifest.7c2efab982aa605895bd9ee2b26fa53c.js": "/youtubeClone/precache-manifest.7c2efab982aa605895bd9ee2b26fa53c.js",
+  "service-worker.js": "/youtubeClone/service-worker.js"
 }
